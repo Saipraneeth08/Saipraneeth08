@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Sai Praneeth Arava
 
-💻 **Java Developer (Fresher) | DevOps Enthusiast**
-🚀 Learning AWS & Azure to build scalable, cloud-native solutions
-🌐 Check out my portfolio: https://saipraneeth-arava-portfolio.vercel.app
+💻 **Java Developer (Fresher) | DevOps Enthusiast**  
+🚀 Learning AWS & Azure to build scalable, cloud-native solutions  
+🌐 Portfolio: https://saipraneeth-arava-portfolio.vercel.app
 
 ---
 
