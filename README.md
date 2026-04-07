@@ -18,6 +18,18 @@
 ## 📄 Resume
 [Download My Resume](./Sai_Praneeth_Arava_Resume.pdf)
 
+## 🚀 Projects
+
+### 🔐 Cryptography & Steganography Web App
+- Built using Python, Flask, AES-256, OpenCV
+- Securely hides encrypted data inside images
+- Focused on data security and compression
+
+### 🍽️ Menu Planning & Cost Estimation System
+- Web-based application for event planning
+- Helps reduce food waste and optimize costs
+- Includes budgeting and resource planning features
+
 ## 🛠️ Skills
 
 ### 💻 Languages
