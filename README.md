@@ -2,6 +2,7 @@
 
 💻 **Java Developer (Fresher) | DevOps Enthusiast**
 🚀 Learning AWS & Azure to build scalable, cloud-native solutions
+🌐 Check out my portfolio: https://saipraneeth-arava-portfolio.vercel.app
 
 ---
 
@@ -29,6 +30,14 @@
 - Web-based application for event planning
 - Helps reduce food waste and optimize costs
 - Includes budgeting and resource planning features
+
+### 🌐 Portfolio Website
+- Built using React, TypeScript, Vite
+- Showcases projects, skills, and contact information
+- Deployed on Vercel
+
+🔗 Live: https://saipraneeth-arava-portfolio.vercel.app
+🔗 GitHub: https://github.com/Saipraneeth08/My_Portfolio
 
 ## 🛠️ Skills
 
