@@ -36,7 +36,7 @@
 - Showcases projects, skills, and contact information
 - Deployed on Vercel
 
-🔗 Live: https://saipraneeth-arava-portfolio.vercel.app
+🔗 Live: https://saipraneeth-arava-portfolio.vercel.app  
 🔗 GitHub: https://github.com/Saipraneeth08/My_Portfolio
 
 ## 🛠️ Skills
