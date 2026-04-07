@@ -53,8 +53,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Your LinkedIn Link]
-* Email: [Your Email]
+* LinkedIn: saipraneetharava
+* Email: saipraneetharava@gmail.com
 
 ---
 
