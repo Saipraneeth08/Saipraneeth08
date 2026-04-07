@@ -1,16 +1,63 @@
-## Hi there 👋
+## 👋 Hi, I'm Sai Praneeth Arava
 
-<!--
-**Saipraneeth08/Saipraneeth08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Java Developer (Fresher) | DevOps Enthusiast**
+🚀 Learning AWS & Azure to build scalable, cloud-native solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🎓 Fresher passionate about software development and cloud technologies
+* ☕ Strong foundation in **Java & backend development**
+* ⚙️ Currently learning **DevOps tools and cloud platforms**
+* ☁️ Exploring **AWS & Azure** for deployment and scalability
+* 📈 Always eager to learn and grow in tech
+
+---
+
+## 🛠️ Skills
+
+### 💻 Languages
+
+* Java
+* Python
+
+### 🌐 Frontend Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+### 🗄️ Databases
+
+* Oracle
+* MySQL
+
+### ⚙️ Tools & DevOps
+
+* VS Code
+* Eclipse
+* Maven
+* Jenkins
+* AWS EC2
+
+---
+
+## 🌱 Currently Learning
+
+* DevOps (CI/CD, automation)
+* AWS & Azure Cloud Services
+* Containerization (Docker basics)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [Your LinkedIn Link]
+* Email: [Your Email]
+
+---
+
+## ⚡ Fun Fact
+
+I’m a Java developer stepping into DevOps to build and deploy real-world scalable applications 🚀
