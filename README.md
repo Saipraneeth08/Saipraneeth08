@@ -77,7 +77,7 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/saipraneetharava
+* LinkedIn: www.linkedin.com/in/saipraneetharava  
 * Email: saipraneetharava@gmail.com
 
 ---
