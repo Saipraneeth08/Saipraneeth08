@@ -15,6 +15,9 @@
 
 ---
 
+## 📄 Resume
+[Download My Resume](./Sai_Praneeth_Arava_Resume.pdf)
+
 ## 🛠️ Skills
 
 ### 💻 Languages
