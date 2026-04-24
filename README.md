@@ -1,17 +1,14 @@
 ## 👋 Hi, I'm Sai Praneeth Arava
 
-💻 **Java Developer (Fresher) | DevOps Enthusiast**  
-🚀 Learning AWS & Azure to build scalable, cloud-native solutions  
+💻 **Java Developer (Fresher)  
 🌐 Portfolio: https://saipraneeth-arava-portfolio.vercel.app
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Fresher passionate about software development and cloud technologies
+* 🎓 Fresher passionate about software development
 * ☕ Strong foundation in **Java & backend development**
-* ⚙️ Currently learning **DevOps tools and cloud platforms**
-* ☁️ Exploring **AWS & Azure** for deployment and scalability
 * 📈 Always eager to learn and grow in tech
 
 ---
@@ -54,24 +51,12 @@
 
 ### 🗄️ Databases
 
-* Oracle
 * MySQL
 
 ### ⚙️ Tools & DevOps
 
 * VS Code
 * Eclipse
-* Maven
-* Jenkins
-* AWS EC2
-
----
-
-## 🌱 Currently Learning
-
-* DevOps (CI/CD, automation)
-* AWS & Azure Cloud Services
-* Containerization (Docker basics)
 
 ---
 
@@ -82,6 +67,3 @@
 
 ---
 
-## ⚡ Fun Fact
-
-I’m a Java developer stepping into DevOps to build and deploy real-world scalable applications 🚀
